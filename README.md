@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/XXXXXXXXX.svg)]
 
+https://mybinder.org/v2/gh/SoulJah-90/Electre_Tri_MCA_py-0.0.1/HEAD
+
 Author: [Souleymane Daniel](mailto:souleymane.daniel@insa-lyon.fr)
 
 [INSA Lyon](https://www.insa-lyon.fr), France, 27/07/2021
