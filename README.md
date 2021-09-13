@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/XXXXXXXXX.svg)]
 
-https://mybinder.org/v2/gh/SoulJah-90/Electre_Tri_MCA_py-0.0.1/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SoulJah-90/Electre_Tri_MCA_py-0.0.1/HEAD)
 
 Author: [Souleymane Daniel](mailto:souleymane.daniel@insa-lyon.fr)
 
