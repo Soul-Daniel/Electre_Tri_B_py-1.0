@@ -49,7 +49,7 @@ Typical workflow:
 
 [Tutorial_ELECTRE_Tri.md](Tutorial_ELECTRE_Tri.md): Tutorial explaining how the calculation code [ELECTRE_Tri.py](ELECTRE_Tri.py) is built.
 
-[Tutorial_ELECTRE_Tri_main.md](Tutorial_ELECTRE_Tri_main.md): Tutorial explaining the structure and functionalities of the executable code [ELECTRE_Tri_main.py](ELECTRE_Tri_main.py). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SoulJah-90/MCA/tree/main/Electre_Tri_MCDA_py-0.0.1/HEAD)
+[Tutorial_ELECTRE_Tri_main.md](Tutorial_ELECTRE_Tri_main.md): Tutorial explaining the structure and functionalities of the executable code [ELECTRE_Tri_main.py](ELECTRE_Tri_main.py).
 
 [Tutorial_CSV_files_structure.md](Tutorial_CSV_files_structure.md): Tutorial explaining what structure the different csv files must have in order to be interpreted by the executable.
 
